@@ -97,24 +97,14 @@ Web application to report and track lost and found items in public places.
 
 ### ⚙ Tech Stack  
 HTML, CSS, JavaScript, Node.js, MongoDB  
+🔗 Repository:
+https://github.com/vignesh-21-cd/lost-and-found-management-system
 
----
 
-## 📈 Currently Learning  
-
-- Data Structures & Algorithms  
-- Advanced Backend Development  
-- Cloud Fundamentals (AWS / Azure)  
-- System Design Basics  
-
----
 
 ## 📫 Contact Me  
 
 - GitHub: https://github.com/vignesh-21-cd  
 - Email: vigneshgowdakumar@gmail.com
-  
-
----
 
 ⭐ Thanks for visiting my profile!  
